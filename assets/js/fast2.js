@@ -14,7 +14,7 @@ function calcRoute() {
     var strText7 = document.getElementById("cars").value;
     var strText8 = document.getElementById("ser").value;
    
-	var Clink="https://taxibazzar.com";
+	var Clink="https://RamsDropTaxi.com";
 	var CPh="9025961709";
 	var Cname="Rams Drop Taxi";
 	//calcRoute()
